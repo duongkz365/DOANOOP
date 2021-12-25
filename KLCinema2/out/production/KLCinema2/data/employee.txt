@@ -1,0 +1,6 @@
+e74_740_478;Nguyễn;Văn A;alo;alo;2323-12-12;duòngdfdfd;admin;1200000.0;2012-12-12;
+e188_611_726;Phạm;Dương Kỳ;duongkz365;kydinh;2222-12-12;duongkz26@gmail.com;salesman;1000000.0;2020-12-12;
+e541_992_941;Người;Bảo Vệ;aloalo;aloalo;2020-12-12;duongkz@gmail.com;carkeeper;120000.0;2020-12-12;
+e651_444_733;Nguyễn ;Bảo Vệ;baove22;baove22;2020-12-12;baove@gmail.com;carkeeper;12000.0;2020-12-12;
+e788_537_244;n;n;n;n;2020-12-12;n;carkeeper;120.0;2020-12-12;
+e142_68_561;Phạm;Bảo Vệ;1;1;2020-12-12;1;carkeeper;1.0;2020-12-12;
